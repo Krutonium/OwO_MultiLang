@@ -11,4 +11,9 @@ Structure as
 
 In the readme, below this, Add compile instructions for the programming language if it doesn't yet exist.
 
+### Python compilation instructions 
+* make sure you have python installed
+* cd into directory of downloaded files with `cd directoryname`
+* run the file with `python filename.py`
+
 ---
