@@ -13,4 +13,11 @@ In the readme, below this, Add compile instructions for the programming language
 
 ---
 
-- Python / English / hello_world.py / python3 hello_world.py
+### Python
+
+- Python3 hello_world.py
+
+### C++ compilation instructions 
+* cd into directory of downloaded files with `cd directoryname`
+* compile file C++ with `g++ filename.cpp -o filename`
+* run the file with `./filename`
