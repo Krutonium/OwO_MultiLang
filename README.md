@@ -12,3 +12,5 @@ Structure as
 In the readme, below this, Add compile instructions for the programming language if it doesn't yet exist.
 
 ---
+
+- Python / English / hello_world.py / python3 hello_world.py
