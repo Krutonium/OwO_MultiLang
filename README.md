@@ -12,3 +12,7 @@ Structure as
 In the readme, below this, Add compile instructions for the programming language if it doesn't yet exist.
 
 ---
+### C++ compilation instructions 
+* cd into directory of downloaded files with `cd directoryname`
+* compile file C++ with `g++ filename.cpp -o filename`
+* run the file with `./filename`
