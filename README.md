@@ -24,3 +24,11 @@ In the readme, below this, Add compile instructions for the programming language
 * cd into directory of downloaded files with `cd directoryname`
 * compile file C++ with `g++ filename.cpp -o filename`
 * run the file with `./filename`
+
+---
+
+### Rust compilation instructions 
+* make sure you have Rust installed
+* cd into directory of downloaded files with `cd directoryname`
+* compile file with `rustc filename.rs`
+* run the file with `./filename`
