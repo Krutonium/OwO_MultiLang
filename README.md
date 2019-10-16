@@ -32,3 +32,8 @@ In the readme, below this, Add compile instructions for the programming language
 * cd into directory of downloaded files with `cd directoryname`
 * compile file with `rustc filename.rs`
 * run the file with `./filename`
+---
+### PHP compilation instructions
+* make sure PHP is installed
+* cd into the directory of downloaded files with `cd directoryname`
+* run the file with `php filename.php`
